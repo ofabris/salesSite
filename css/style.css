@@ -1,6 +1,30 @@
 .nav-labels {
   padding: 10px !important;
   color: #fff !important;
+  /* DEIXA O CURSOR COMO SELEÇÃO DE MENU */
   cursor: pointer;
 }
 
+.text-insight {
+  text-align: center;
+  color: black;
+}
+
+.top-right {
+  position: absolute;
+  top: 40%;
+  left: 49%;
+  line-height: 1.4;
+  background-color: #fff6;
+  margin-right: 100px;
+  border-radius: 10px;
+  font-family: sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-family: monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+}
+
+.style-hr {
+  border: 3px solid black;
+}
